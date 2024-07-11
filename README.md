@@ -34,7 +34,7 @@ Enjoying life on a beautiful lifestyle block in the rural Bay of Plenty.
 📫 Get in Touch
 Email: aft3rd4rknz@gmail.com
 
-LinkedIn: (https://www.linkedin.com/in/pete-mackay-bb2466314/)
+LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pete-mackay-bb2466314/)
 
 
 <!--
