@@ -35,7 +35,7 @@ Gaming, metal detecting, collecting vintage toys.
 
 Enjoying life on a beautiful lifestyle block in the rural Bay of Plenty.
 
-📫 Get in Touch
+📫 Get in Touch:
 
 Email: aft3rd4rknz@gmail.com
 
