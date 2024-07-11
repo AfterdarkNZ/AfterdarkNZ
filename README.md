@@ -17,7 +17,7 @@ Backend: Node.js, Express
 
 Database: MongoDB, MySQL
 
-API Integration: Google Maps API
+API Integration: Google Maps API, Google Gemini Chatbots, Azure AI Vision
 
 Other: AI applications, team leadership, small business ownership
 
