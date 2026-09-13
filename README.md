@@ -1,58 +1,72 @@
-Hi, I'm Pete! 👋
-I'm a passionate full-stack developer with a keen interest in AI. After a long break from the tech industry, I've recently completed a Level 4 and Level 5 Advanced Full Stack Development course at Mission Ready and am excited to dive back into web development.
+# Hi, I'm Pete! 👋
 
-💼 Experience
+I'm a **Software Developer based in New Zealand**, working primarily with **C# and .NET**, with a background in full-stack web development and a strong interest in **AI and emerging technologies**.
 
-Background in IT and Web Development: Over 20 years ago, I worked in IT and web development.
+After originally working in IT and web development more than 20 years ago, I took a long break from the technology industry before deciding to return to software development. I completed Level 4 Full Stack Development and Level 5 Advanced Full Stack Development training through Mission Ready and have since moved into a professional software development role.
 
-Recent Career Shift: Left a previous career to refocus on web development.
+I enjoy building practical applications, learning new technologies, solving problems, and increasingly exploring how AI can be incorporated into modern software.
 
-Advanced Full Stack Development: Completed Level 4 Full Stack and Level 5 Advanced Full Stack Development course at Mission Ready.
+## 💼 Experience
 
-🔧 Skills
+**Software Development**
+Currently working professionally with **C# and .NET**, while continuing to develop my knowledge of modern software architecture, databases, APIs and cloud technologies.
 
-Frontend: React, JavaScript, HTML, CSS
+**Full-Stack Development**
+Experience building applications using React, JavaScript, Node.js, Express, C#/.NET, MongoDB and SQL Server.
 
-Backend: Node.js, Express
+**Previous IT & Web Development**
+Originally worked in IT and web development more than 20 years ago before pursuing other career and business opportunities.
 
-Database: MongoDB, MySQL
+**Mission Ready**
+Completed Level 4 Full Stack Development and Level 5 Advanced Full Stack Development training.
 
-API Integration: Google Maps API, Google Gemini Chatbots, Azure AI Vision
+## 🔧 Technologies & Skills
 
-Other: AI applications, team leadership, small business ownership
+**Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
 
-📚 Group Projects:
+**Backend:** C#, .NET / ASP.NET Core, Node.js, Express
 
-Service Station Finder: A React-based application integrating MongoDB to display fuel prices and amenities.
+**Databases:** Microsoft SQL Server, Azure SQL, MongoDB, MySQL, Entity Framework Core
 
-🌱 Currently Learning:
+**Cloud & APIs:** Microsoft Azure, REST APIs, Cloudinary, Google Maps API, Google Gemini, Azure AI Vision
 
-Advanced AI applications and their future potential.
+**Development:** Git, GitHub, Visual Studio, VS Code, API integration, full-stack application development
 
-🏡 Personal Interests:
+**Other:** AI-assisted development, AI applications, team leadership and small business ownership
 
-Gaming, metal detecting, collecting vintage toys.
+## 🚀 Current Projects
 
-Enjoying life on a beautiful lifestyle block in the rural Bay of Plenty.
+### RetroToyBase
 
-📫 Get in Touch:
+A full-stack application for **cataloguing and managing vintage toy collections**, built with **C# / ASP.NET Core, Entity Framework Core, SQL Server/Azure SQL and React**.
 
-Email: aft3rd4rknz@gmail.com
+The project includes user collections, figures, accessories and images alongside a structured canonical toy catalogue. I'm also exploring AI-assisted identification of figures, accessories and parts.
 
-LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/pete-mackay-bb2466314/)
+### Flip-Base
 
+A full-stack inventory and sales management application originally developed to manage my own reselling workflow.
 
-<!--
-**AfterdarkNZ/AfterdarkNZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Built with **React, Node.js, Express and MongoDB**, with Cloudinary image storage, mobile image capture, image optimisation, inventory management, sales tracking and profit calculations.
 
-Here are some ideas to get you started:
+## 🌱 Currently Exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in continuing to develop my knowledge of:
+
+* C# and the .NET ecosystem
+* Software architecture and design patterns
+* Microsoft Azure and cloud deployment
+* AI integration within traditional applications
+* Computer vision and AI-assisted identification
+* Building maintainable, production-ready full-stack applications
+
+## 🏡 Outside Development
+
+When I'm not coding, my interests include **metal detecting and collecting vintage toys** — the latter being one of the reasons RetroToyBase exists!
+
+I also enjoy life on a lifestyle block in rural New Zealand.
+
+## 📫 Get in Touch
+
+**Email:** [aft3rd4rknz@gmail.com](mailto:aft3rd4rknz@gmail.com)
+
+**LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/pete-mackay-bb2466314/)
